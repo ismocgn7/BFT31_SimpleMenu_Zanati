@@ -1,0 +1,14 @@
+C:\Users\lukas\source\repos\SImpleMenu\SImpleMenu\bin\Debug\net8.0\SImpleMenu.exe
+C:\Users\lukas\source\repos\SImpleMenu\SImpleMenu\bin\Debug\net8.0\SImpleMenu.deps.json
+C:\Users\lukas\source\repos\SImpleMenu\SImpleMenu\bin\Debug\net8.0\SImpleMenu.runtimeconfig.json
+C:\Users\lukas\source\repos\SImpleMenu\SImpleMenu\bin\Debug\net8.0\SImpleMenu.dll
+C:\Users\lukas\source\repos\SImpleMenu\SImpleMenu\bin\Debug\net8.0\SImpleMenu.pdb
+C:\Users\lukas\source\repos\SImpleMenu\SImpleMenu\obj\Debug\net8.0\SImpleMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\source\repos\SImpleMenu\SImpleMenu\obj\Debug\net8.0\SImpleMenu.AssemblyInfoInputs.cache
+C:\Users\lukas\source\repos\SImpleMenu\SImpleMenu\obj\Debug\net8.0\SImpleMenu.AssemblyInfo.cs
+C:\Users\lukas\source\repos\SImpleMenu\SImpleMenu\obj\Debug\net8.0\SImpleMenu.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\SImpleMenu\SImpleMenu\obj\Debug\net8.0\SImpleMenu.dll
+C:\Users\lukas\source\repos\SImpleMenu\SImpleMenu\obj\Debug\net8.0\refint\SImpleMenu.dll
+C:\Users\lukas\source\repos\SImpleMenu\SImpleMenu\obj\Debug\net8.0\SImpleMenu.pdb
+C:\Users\lukas\source\repos\SImpleMenu\SImpleMenu\obj\Debug\net8.0\SImpleMenu.genruntimeconfig.cache
+C:\Users\lukas\source\repos\SImpleMenu\SImpleMenu\obj\Debug\net8.0\ref\SImpleMenu.dll
